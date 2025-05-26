@@ -14,17 +14,16 @@ pnpm dev
 bun dev
 ```
 
-Clone the repository locally:
 ```bash
+# Clone the repository locally
 git clone https://github.com/ElevenKong/flux-labs-pricing-clone.git
+# powershell中安装bun命令
+irm https://bun.sh/install.ps1 | iex
+# 进入项目文件夹
 cd flux-labs-pricing-clone
-```
-Install dependencies:
-```bash
+# Install dependencies
 bun install
-```
-Run the development server:
-```bash
+# Run the development server:
 bun dev
 ```
 Open in browser: http://localhost:3000
