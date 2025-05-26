@@ -24,9 +24,9 @@ cd flux-labs-pricing-clone
 # Install dependencies
 bun install
 # Run the development server:
-bun dev
+bun dev --port 9091
 ```
-Open in browser: http://localhost:3000
+Open in browser: http://localhost:9091
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
