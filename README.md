@@ -14,6 +14,21 @@ pnpm dev
 bun dev
 ```
 
+Clone the repository locally:
+```bash
+git clone https://github.com/ElevenKong/flux-labs-pricing-clone.git
+cd flux-labs-pricing-clone
+```
+Install dependencies:
+```bash
+bun install
+```
+Run the development server:
+```bash
+bun dev
+```
+Open in browser: http://localhost:3000
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
